@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+}
+.nav-bar {
+    height: 50px;
+    background-color: #56ff3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-name {
+    padding-left: 20px;
+}
+
+.new-game {
+    padding-right: 20px;
+    cursor: pointer;
+}
+li {
+    list-style: none;
+}
